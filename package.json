@@ -1,0 +1,17 @@
+{
+  "name": "djComfyExperiments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc --build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "dotJack",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^3.2.4",
+    "typescript": "^5.3.3"
+  }
+}
